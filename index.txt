@@ -4,8 +4,8 @@ HEADER
   BODY
   <NAV>
     <A>HOME</A>
-    <A>ABOUT</A>
     <A>SERVICES</A>
+    <A>ABOUT</A>
     <A>MENU</A>
     <A>CONTACT US</A>
   </NAV>
@@ -16,6 +16,13 @@ HEADER
       </ARTICLE>
     </SECTION>
     <ASIDE>
+      <NAV>
+    <A>HOME</A>
+    <A>SERVICES</A>
+    <A>ABOUT</A>
+    <A>MENU</A>
+    <A>CONTACT US</A>
+  </NAV>
     </ASIDE>
   </BODY
 FOOTER
