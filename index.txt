@@ -1,0 +1,23 @@
+HTML
+HEADER
+</HEADER>
+  BODY
+  <NAV>
+    <A>HOME</A>
+    <A>ABOUT</A>
+    <A>SERVICES</A>
+    <A>CONTACT US</A>
+  </NAV>
+    <SECTION CLASS="1">
+      <ARTICLE CLASS="1.1">
+      </ARTICLE>
+    </SECTION>
+    <SECTION CLASS="2">
+      <ARTICLE CLASS="2.1">
+      </ARTICLE>
+    </SECTION>
+    <ASIDE>
+    </ASIDE>
+  </BODY
+FOOTER
+</FOOTER>
