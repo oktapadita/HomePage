@@ -1,28 +1,20 @@
 HTML
 HEADER
+<TITLE>ABOUT</TITLE>
 </HEADER>
   BODY
   <NAV>
     <A>HOME</A>
-    <A>SERVICES</A>
     <A>ABOUT</A>
+    <A>SERVICES</A>
     <A>MENU</A>
     <A>CONTACT US</A>
   </NAV>
     <SECTION CLASS="1">
-      <ARTICLE CLASS="1.1">
-      </ARTICLE>
-      <ARTICLE CLASS="1.2">
+      <ARTICLE CLASS="ABOUT">
       </ARTICLE>
     </SECTION>
     <ASIDE>
-      <NAV>
-    <A>HOME</A>
-    <A>SERVICES</A>
-    <A>ABOUT</A>
-    <A>MENU</A>
-    <A>CONTACT US</A>
-  </NAV>
     </ASIDE>
   </BODY
 FOOTER
