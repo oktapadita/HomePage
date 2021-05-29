@@ -12,7 +12,7 @@ HEADER
     <SECTION CLASS="1">
       <ARTICLE CLASS="1.1">
       </ARTICLE>
-       <ARTICLE CLASS="2.1">
+      <ARTICLE CLASS="1.2">
       </ARTICLE>
     </SECTION>
     <ASIDE>
