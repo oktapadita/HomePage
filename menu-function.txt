@@ -1,10 +1,10 @@
 HTML
 HEADER
-  <TITLE>HOME</TITLE>
+  <TITLE>MENU</TITLE>
 </HEADER>
   BODY
   <NAV>
-     <A>HOME</A>
+    <A>HOME</A>
     <A>ABOUT</A>
     <A>SERVICES</A>
     <A>MENU</A>
