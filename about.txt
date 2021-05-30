@@ -1,14 +1,13 @@
 HTML
 HEADER
-  <TITLE>HOME</TITLE>
+  <TITLE>ABOUT</TITLE>
 </HEADER>
   BODY
   <NAV>
-     <A>HOME</A>
-    <A>ABOUT</A>
-    <A>SERVICES</A>
-    <A>MENU</A>
-    <A>CONTACT US</A>
+      <A>HOME</A>
+      <A>ABOUT</A>
+      <A>MENU</A>
+      <A>CONTACT US</A>
   </NAV>
     <SECTION CLASS="1">
       <ARTICLE CLASS="1.1">
@@ -17,11 +16,10 @@ HEADER
       </ARTICLE>
     </SECTION>
     <ASIDE>
-     <A>HOME</A>
-    <A>ABOUT</A>
-    <A>SERVICES</A>
-    <A>MENU</A>
-    <A>CONTACT US</A>
+      <A>HOME</A>
+      <A>ABOUT</A>
+      <A>MENU</A>
+      <A>CONTACT US</A>
     </ASIDE>
   </BODY
 FOOTER
