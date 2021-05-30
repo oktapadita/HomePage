@@ -1,0 +1,29 @@
+HTML
+HEADER
+  <TITLE>MENU</TITLE>
+</HEADER>
+  BODY
+  <NAV>
+    <A>HOME</A>
+    <A>ABOUT</A>
+    <A>SERVICES</A>
+    <A>MENU</A>
+    <A>CONTACT US</A>
+  </NAV>
+    <SECTION CLASS="1">
+      <ARTICLE CLASS="1.1">
+      </ARTICLE>
+      <ARTICLE CLASS="1.2">
+      </ARTICLE>
+    </SECTION>
+    <ASIDE>
+      <A>HOME</A>
+      <A>ABOUT</A>
+      <A>SERVICES</A>
+      <A>MENU</A>
+      <A>CONTACT US</A>
+    </ASIDE>
+  </BODY
+FOOTER
+COPYRIGHT &copy;
+</FOOTER>
