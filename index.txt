@@ -17,6 +17,11 @@ HEADER
       </ARTICLE>
     </SECTION>
     <ASIDE>
+     <A>HOME</A>
+    <A>ABOUT</A>
+    <A>SERVICES</A>
+    <A>MENU</A>
+    <A>CONTACT US</A>
     </ASIDE>
   </BODY
 FOOTER
