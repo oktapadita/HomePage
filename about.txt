@@ -5,9 +5,7 @@ HEADER
   BODY
   <NAV>
       <A>HOME</A>
-      <A>SERVICES</A>
       <A>ABOUT</A>
-      <A>SERVICES</A>
       <A>MENU</A>
       <A>CONTACT US</A>
   </NAV>
@@ -19,9 +17,7 @@ HEADER
     </SECTION>
     <ASIDE>
       <A>HOME</A>
-      <A>SERVICES</A>
       <A>ABOUT</A>
-      <A>SERVICES</A>
       <A>MENU</A>
       <A>CONTACT US</A>
     </ASIDE>
